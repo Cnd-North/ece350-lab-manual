@@ -10,7 +10,7 @@ In this lab you will create an FM modulator and demodulator, and then use the Un
 As you work, consider the following questions:
 
 - What are the differences between an analog transmitter and a software-defined transmitter?
-- What are the differences between an analog receiver and a software-defined transmitter?
+- What are the differences between an analog receiver and a software-defined reciever?
 
 ---
 
